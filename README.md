@@ -1,0 +1,2 @@
+# Dugimail
+mail layout
